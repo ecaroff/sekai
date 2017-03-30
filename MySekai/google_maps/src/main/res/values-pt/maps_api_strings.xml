@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="maps_OPEN_GMM_ALT_TEXT">Abrir no Google Maps</string>
+    <string name="maps_DIRECTIONS_ALT_TEXT">Como chegar</string>
+    <string name="maps_GOOGLE_MAP">Mapa do Google</string>
+</resources>

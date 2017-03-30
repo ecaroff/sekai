@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="maps_sv_circle_height">160dp</dimen>
+    <dimen name="maps_sv_circle_width">160dp</dimen>
+    <dimen name="maps_sv_arrow_height">16dp</dimen>
+    <dimen name="maps_sv_arrow_width">17dp</dimen>
+</resources>

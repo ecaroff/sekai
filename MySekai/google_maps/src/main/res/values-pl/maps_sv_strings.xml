@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="maps_waiting_for_network" msgid="4679308263892194242">"Połączenie zostało zerwane. Ponawianie próby…"</string>
+    <string name="maps_panorama_disabled" msgid="504349892431320733">"Obraz już jest niedostępny"</string>
+    <string name="maps_service_unavailable" msgid="5623163711058333956">"Street View jest niedostępny."</string>
+    <string name="maps_no_panorama_data" msgid="5724478591902584421">"Nie ustawiono danych panoramy."</string>
+    <string name="maps_invalid_panorama_data" msgid="5618016850433253177">"Nieprawidłowa panorama"</string>
+  <string-array name="maps_compass_directions">
+    <item msgid="371990129502990442">"pn"</item>
+    <item msgid="1723794399812139988">"pn-wsch"</item>
+    <item msgid="8995696828344274905">"wsch"</item>
+    <item msgid="8971984494345895781">"pd-wsch"</item>
+    <item msgid="7174645718252695865">"pd"</item>
+    <item msgid="4863051572593926737">"pd-zach"</item>
+    <item msgid="6823513192569584945">"zach"</item>
+    <item msgid="1255372719355902587">"pn-zach"</item>
+  </string-array>
+    <string name="maps_street_range_name_format" msgid="8614145121611139475">"%2$s %1$s"</string>
+    <string name="maps_network_unavailable" msgid="852879677528638846">"Dla tego programu wymagane jest połączenie transmisji danych. Próba nawiązania połączenia będzie ponawiana automatycznie. Sprawdź siłę sygnału. Czy jest włączony tryb samolotowy? Czy jest wyłączony roaming danych?"</string>
+  <string-array name="maps_full_compass_directions">
+    <item msgid="4575528752583301752">północ</item>
+    <item msgid="4350548105276290005">północny wschód</item>
+    <item msgid="2941955296001395559">wschód</item>
+    <item msgid="7564496420537720517">południowy wschód</item>
+    <item msgid="7734963361324256142">południe</item>
+    <item msgid="2308335477702894344">południowy zachód</item>
+    <item msgid="1360397508757498197">zachód</item>
+    <item msgid="5107967783299132090">północny zachód</item>
+  </string-array>
+</resources>

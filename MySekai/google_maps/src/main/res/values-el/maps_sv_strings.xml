@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="maps_waiting_for_network" msgid="4679308263892194242">"Η σύνδεση δεδομένων χάθηκε, γίνεται προσπάθεια ξανά…"</string>
+    <string name="maps_panorama_disabled" msgid="504349892431320733">"Η εικόνα δεν είναι πλέον διαθέσιμη"</string>
+    <string name="maps_service_unavailable" msgid="5623163711058333956">"Η υπηρεσία Street View δεν είναι διαθέσιμη."</string>
+    <string name="maps_no_panorama_data" msgid="5724478591902584421">"Δεν έχουν ρυθμιστεί δεδομένα πανοράματος."</string>
+    <string name="maps_invalid_panorama_data" msgid="5618016850433253177">"Μη έγκυρο πανόραμα."</string>
+  <string-array name="maps_compass_directions">
+    <item msgid="371990129502990442">"Β"</item>
+    <item msgid="1723794399812139988">"ΒΑ"</item>
+    <item msgid="8995696828344274905">"Α"</item>
+    <item msgid="8971984494345895781">"ΝΑ"</item>
+    <item msgid="7174645718252695865">"Ν"</item>
+    <item msgid="4863051572593926737">"ΝΔ"</item>
+    <item msgid="6823513192569584945">"Δ"</item>
+    <item msgid="1255372719355902587">"ΒΔ"</item>
+  </string-array>
+    <string name="maps_street_range_name_format" msgid="8614145121611139475">"%1$s %2$s"</string>
+    <string name="maps_network_unavailable" msgid="852879677528638846">"Αυτό το πρόγραμμα απαιτεί μια σύνδεση δεδομένων και θα επαναλάβει αυτόματα την προσπάθεια. Ελέγξτε την ισχύ του σήματός σας. Είναι ενεργοποιημένη η λειτουργία αεροσκάφους; Έχουν απενεργοποιηθεί τα δεδομένα περιαγωγής;"</string>
+  <string-array name="maps_full_compass_directions">
+    <item msgid="4575528752583301752">βόρεια</item>
+    <item msgid="4350548105276290005">βορειοανατολικά</item>
+    <item msgid="2941955296001395559">ανατολικά</item>
+    <item msgid="7564496420537720517">νοτιοανατολικά</item>
+    <item msgid="7734963361324256142">νότια</item>
+    <item msgid="2308335477702894344">νοτιοδυτικά</item>
+    <item msgid="1360397508757498197">δυτικά</item>
+    <item msgid="5107967783299132090">βορειοδυτικά</item>
+  </string-array>
+</resources>

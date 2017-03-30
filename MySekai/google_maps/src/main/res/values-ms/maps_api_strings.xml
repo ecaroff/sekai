@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="maps_LEVEL_ALT_TEXT">Tingkat {0}</string>
+    <string name="maps_YOUR_LOCATION" msgid="3304805242996771621">Lokasi semasa anda</string>
+    <string name="maps_OPEN_GMM_ALT_TEXT">Buka dalam Peta Google</string>
+    <string name="maps_DIRECTIONS_ALT_TEXT">Dapatkan Arah</string>
+    <string name="maps_GOOGLE_MAP">Google map</string>
+</resources>
+

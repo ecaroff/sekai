@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="maps_waiting_for_network" msgid="4679308263892194242">"Datenverbindung unterbrochen, Versuch wird wiederholt..."</string>
+    <string name="maps_panorama_disabled" msgid="504349892431320733">"Das Bild ist nicht mehr verfügbar."</string>
+    <string name="maps_service_unavailable" msgid="5623163711058333956">"Street View steht nicht zur Verfügung."</string>
+    <string name="maps_no_panorama_data" msgid="5724478591902584421">"Es wurden keine Panoramadaten festgelegt."</string>
+    <string name="maps_invalid_panorama_data" msgid="5618016850433253177">"Ungültiges Panorama."</string>
+  <string-array name="maps_compass_directions">
+    <item msgid="371990129502990442">"N"</item>
+    <item msgid="1723794399812139988">"NO"</item>
+    <item msgid="8995696828344274905">"O"</item>
+    <item msgid="8971984494345895781">"SO"</item>
+    <item msgid="7174645718252695865">"S"</item>
+    <item msgid="4863051572593926737">"SW"</item>
+    <item msgid="6823513192569584945">"W"</item>
+    <item msgid="1255372719355902587">"NW"</item>
+  </string-array>
+    <string name="maps_street_range_name_format" msgid="8614145121611139475">"%2$s %1$s"</string>
+    <string name="maps_network_unavailable" msgid="852879677528638846">"Dieses Programm erfordert eine Datenverbindung, es wird automatisch erneut versucht, diese herzustellen. Überprüfen Sie die Signalstärke. Ist der Flugmodus aktiviert? Ist Roaming deaktiviert?"</string>
+  <string-array name="maps_full_compass_directions">
+    <item msgid="4575528752583301752">Norden</item>
+    <item msgid="4350548105276290005">Nordosten</item>
+    <item msgid="2941955296001395559">Osten</item>
+    <item msgid="7564496420537720517">Südosten</item>
+    <item msgid="7734963361324256142">Süden</item>
+    <item msgid="2308335477702894344">Südwesten</item>
+    <item msgid="1360397508757498197">Westen</item>
+    <item msgid="5107967783299132090">Nordwesten</item>
+  </string-array>
+</resources>

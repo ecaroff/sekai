@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="maps_waiting_for_network" msgid="4679308263892194242">"데이터 연결이 끊겨 재시도하고 있습니다."</string>
+    <string name="maps_panorama_disabled" msgid="504349892431320733">"사진이 더 이상 제공되지 않습니다."</string>
+    <string name="maps_service_unavailable" msgid="5623163711058333956">"스트리트 뷰 서비스를 사용할 수 없습니다."</string>
+    <string name="maps_no_panorama_data" msgid="5724478591902584421">"파노라마 데이터 집합이 없습니다."</string>
+    <string name="maps_invalid_panorama_data" msgid="5618016850433253177">"잘못된 파노라마입니다."</string>
+  <string-array name="maps_compass_directions">
+    <item msgid="371990129502990442">"북"</item>
+    <item msgid="1723794399812139988">"북동"</item>
+    <item msgid="8995696828344274905">"동"</item>
+    <item msgid="8971984494345895781">"동남"</item>
+    <item msgid="7174645718252695865">"남"</item>
+    <item msgid="4863051572593926737">"남서"</item>
+    <item msgid="6823513192569584945">"서"</item>
+    <item msgid="1255372719355902587">"북서"</item>
+  </string-array>
+    <string name="maps_street_range_name_format" msgid="8614145121611139475">"%2$s %1$s"</string>
+    <string name="maps_network_unavailable" msgid="852879677528638846">"프로그램을 실행하려면 데이터 접속이 필요하며 자동으로 연결을 다시 시도합니다. 신호 강도를 확인하시고 비행 모드가 아닌지, 데이터 로밍이 사용 중지되지 않았는지 확인하세요."</string>
+  <string-array name="maps_full_compass_directions">
+    <item msgid="4575528752583301752">북쪽</item>
+    <item msgid="4350548105276290005">북동쪽</item>
+    <item msgid="2941955296001395559">동쪽</item>
+    <item msgid="7564496420537720517">남동쪽</item>
+    <item msgid="7734963361324256142">남쪽</item>
+    <item msgid="2308335477702894344">남서쪽</item>
+    <item msgid="1360397508757498197">서쪽</item>
+    <item msgid="5107967783299132090">북서쪽</item>
+  </string-array>
+</resources>

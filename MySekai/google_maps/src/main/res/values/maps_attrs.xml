@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2012 Google Inc. All Rights Reserved. -->
+<resources>
+  <declare-styleable name="MapM4bAttrs">
+    <attr name="m4b_mapType" format="enum">
+      <enum name="none" value="0"/>
+      <enum name="normal" value="1"/>
+      <enum name="satellite" value="2"/>
+      <enum name="terrain" value="3"/>
+      <enum name="hybrid" value="4"/>
+    </attr>
+    <attr name="m4b_cameraBearing" format="float"/>
+    <attr name="m4b_cameraTargetLat" format="float"/>
+    <attr name="m4b_cameraTargetLng" format="float"/>
+    <attr name="m4b_cameraTilt" format="float"/>
+    <attr name="m4b_cameraZoom" format="float"/>
+    <attr name="m4b_liteMode" format="boolean"/>
+    <attr name="m4b_uiCompass" format="boolean"/>
+    <attr name="m4b_uiRotateGestures" format="boolean"/>
+    <attr name="m4b_uiScrollGestures" format="boolean"/>
+    <attr name="m4b_uiTiltGestures" format="boolean"/>
+    <attr name="m4b_uiZoomControls" format="boolean"/>
+    <attr name="m4b_uiZoomGestures" format="boolean"/>
+    <attr name="m4b_useViewLifecycle" format="boolean"/>
+    <attr name="m4b_zOrderOnTop" format="boolean"/>
+    <attr name="m4b_uiMapToolbar" format="boolean"/>
+    <attr name="m4b_ambientEnabled" format="boolean"/>
+    <attr name="m4b_cameraMinZoomPreference" format="float"/>
+    <attr name="m4b_cameraMaxZoomPreference" format="float"/>
+    <attr name="m4b_latLngBoundsSouthWestLatitude" format="float"/>
+    <attr name="m4b_latLngBoundsSouthWestLongitude" format="float"/>
+    <attr name="m4b_latLngBoundsNorthEastLatitude" format="float"/>
+    <attr name="m4b_latLngBoundsNorthEastLongitude" format="float"/>
+  </declare-styleable>
+</resources>

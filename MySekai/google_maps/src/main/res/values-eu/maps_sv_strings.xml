@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="maps_waiting_for_network" msgid="4679308263892194242">"Datu-konexioa galduta, berriro saiatzen…"</string>
+    <string name="maps_panorama_disabled" msgid="504349892431320733">"Argazkia ez dago erabilgarri"</string>
+    <string name="maps_service_unavailable" msgid="5623163711058333956">"Street View zerbitzua ez dago erabilgarri."</string>
+    <string name="maps_no_panorama_data" msgid="5724478591902584421">"Ez dago datu panoramikorik zehaztuta."</string>
+    <string name="maps_invalid_panorama_data" msgid="5618016850433253177">"Irudi panoramiko baliogabea"</string>
+  <string-array name="maps_compass_directions">
+    <item msgid="371990129502990442">"I"</item>
+    <item msgid="1723794399812139988">"IE"</item>
+    <item msgid="8995696828344274905">"E"</item>
+    <item msgid="8971984494345895781">"HE"</item>
+    <item msgid="7174645718252695865">"H"</item>
+    <item msgid="4863051572593926737">"HM"</item>
+    <item msgid="6823513192569584945">"M"</item>
+    <item msgid="1255372719355902587">"IM"</item>
+  </string-array>
+    <string name="maps_street_range_name_format" msgid="8614145121611139475">"%2$s %1$s"</string>
+    <string name="maps_network_unavailable" msgid="852879677528638846">"Programa honek datu-konexioa behar du eta automatikoki saiatuko da berriro konektatzen. Egiaztatu seinalearen indarra. Hegaldi modua aktibatuta al duzu? Ibiltaritza-datuak desgaituta al dituzu?"</string>
+</resources>

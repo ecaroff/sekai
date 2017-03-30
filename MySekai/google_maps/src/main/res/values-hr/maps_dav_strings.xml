@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="maps_dav_map_copyrights_google_only" msgid="2340776877486681415">"©<xliff:g id="COPYRIGHT_YEAR">%1$d</xliff:g> Google"</string>
+    <string name="maps_dav_map_copyrights_full" msgid="2643616411547805051">"©<xliff:g id="COPYRIGHT_YEAR_0">%1$d</xliff:g> Google - Slike ©<xliff:g id="COPYRIGHT_YEAR_1">%2$d</xliff:g><xliff:g id="IMAGERY_PROVIDER_NAMES">%3$s</xliff:g>, Podaci o karti ©<xliff:g id="COPYRIGHT_YEAR_2">%4$d</xliff:g><xliff:g id="MAP_DATA_PROVIDER_NAMES">%5$s</xliff:g>"</string>
+    <string name="maps_dav_map_copyrights_imagery_only" msgid="4796406852640794459">"©<xliff:g id="COPYRIGHT_YEAR_0">%1$d</xliff:g> Google - Slike ©<xliff:g id="COPYRIGHT_YEAR_1">%2$d</xliff:g><xliff:g id="IMAGERY_PROVIDER_NAMES">%3$s</xliff:g>"</string>
+    <string name="maps_dav_map_copyrights_map_data_only" msgid="7421961728654750951">"©<xliff:g id="COPYRIGHT_YEAR_0">%1$d</xliff:g> Google - Podaci o karti ©<xliff:g id="COPYRIGHT_YEAR_1">%2$d</xliff:g><xliff:g id="MAP_DATA_PROVIDER_NAMES">%3$s</xliff:g>"</string>
+</resources>

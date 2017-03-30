@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!--  Title for notification shown when GooglePlayServices is unavailable [CHAR LIMIT=42] -->
+
+    <!--  Title for notification shown when GooglePlayServices needs to be updated for an
+        application to work. [CHAR LIMIT=70] -->
+    <!--  Text for notification shown when the Android Wear apps needs to be updated. Only shown on the wearable. [CHAR LIMIT=NONE] -->
+    <!--  Title for notification shown when GooglePlayServices needs to be enabled for an
+        application to work. [CHAR LIMIT=70] -->
+
+    <!--  Requested by string saying which app requested the notification. [CHAR LIMIT=42] -->
+
+    <!-- Title of confirmation dialog informing user that they need to install
+        Google Play services (from Play Store) [CHAR LIMIT=40] -->
+
+    <!-- (For phones) Message in confirmation dialog informing user that
+        they need to install Google Play services (from Play Store) [CHAR LIMIT=NONE] -->
+
+    <!-- (For tablets) Message in confirmation dialog informing user that
+        they need to install Google Play services (from Play Store) [CHAR LIMIT=NONE] -->
+
+    <!-- Button in confirmation dialog for installing Google Play services [CHAR LIMIT=40] -->
+
+    <!-- Title of confirmation dialog informing user they need to enable
+        Google Play services in application settings [CHAR LIMIT=40] -->
+
+    <!-- Message in confirmation dialog informing user they need to enable
+        Google Play services in application settings [CHAR LIMIT=NONE] -->
+
+    <!-- Button in confirmation dialog to enable Google Play services.  Clicking it
+        will direct user to application settings of Google Play services where they
+        can enable it [CHAR LIMIT=40] -->
+
+    <!-- Title of confirmation dialog informing user that they need to update
+        Google Play services (from Play Store) [CHAR LIMIT=40] -->
+
+    <!-- Title of confirmation dialog informing user that they need to update
+        the Android Wear app (from Play Store) [CHAR LIMIT=40] -->
+
+    <!-- Message in confirmation dialog informing user that they need to update
+        Google Play services (from Play Store) [CHAR LIMIT=NONE] -->
+
+    <!-- Message in confirmation dialog informing user that they need to update
+        the Android Wear app [CHAR LIMIT=NONE] -->
+
+    <!-- Title of confirmation dialog informing user that Google Play services is currently
+        updating [CHAR LIMIT=40] -->
+
+    <!-- Message in confirmation dialog informing user that Google Play services is currently
+        updating [CHAR LIMIT=NONE] -->
+
+    <!-- Title of confirmation dialog informing the user that a network error occurred. [CHAR LIMIT=40] -->
+
+    <!-- Message in confirmation dialog informing the user that a network error occurred. [CHAR LIMIT=NONE] -->
+
+    <!-- Title of confirmation dialog informing the user that they provided an invalid account. [CHAR LIMIT=40] -->
+
+    <!-- Message in confirmation dialog informing the user that they provided an invalid account. [CHAR LIMIT=NONE] -->
+
+    <!-- Message in confirmation dialog informing user there is an unknown issue in Google Play
+        services [CHAR LIMIT=NONE] -->
+
+    <!-- Title of confirmation dialog informing user that Google Play services is not supported on their device [CHAR LIMIT=40] -->
+
+    <!-- Message in confirmation dialog informing user that Google Play services is not supported on their device [CHAR LIMIT=NONE] -->
+
+    <!-- Button in confirmation dialog for updating Google Play services [CHAR LIMIT=40] -->
+
+    <!-- Label for an action to open a notifications content on the phone [CHAR LIMIT=25] -->
+
+    <!-- Message in confirmation dialog informing the user that one of the APIs they attepmt to access is not available. [CHAR LIMIT=NONE] -->
+
+    <!-- Title of confirmation dialog informing the user that the account could not be signed in. [CHAR LIMIT=40] -->
+
+    <!-- Message in confirmation dialog informing the user that the account could not be signed in. [CHAR LIMIT=NONE] -->
+
+</resources>

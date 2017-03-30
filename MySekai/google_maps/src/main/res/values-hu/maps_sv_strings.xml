@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="maps_waiting_for_network" msgid="4679308263892194242">"Az adatkapcsolat megszakadt, ismételt próbálkozás…"</string>
+    <string name="maps_panorama_disabled" msgid="504349892431320733">"A kép már nem érhető el."</string>
+    <string name="maps_service_unavailable" msgid="5623163711058333956">"Az Utcakép szolgáltatás nem érhető el."</string>
+    <string name="maps_no_panorama_data" msgid="5724478591902584421">"Nincsenek beállítva panorámaadatok."</string>
+    <string name="maps_invalid_panorama_data" msgid="5618016850433253177">"Érvénytelen panorámaadat."</string>
+  <string-array name="maps_compass_directions">
+    <item msgid="371990129502990442">"É"</item>
+    <item msgid="1723794399812139988">"ÉK"</item>
+    <item msgid="8995696828344274905">"K"</item>
+    <item msgid="8971984494345895781">"DK"</item>
+    <item msgid="7174645718252695865">"D"</item>
+    <item msgid="4863051572593926737">"DNY"</item>
+    <item msgid="6823513192569584945">"NY"</item>
+    <item msgid="1255372719355902587">"ÉNY"</item>
+  </string-array>
+    <string name="maps_street_range_name_format" msgid="8614145121611139475">"%2$s %1$s."</string>
+    <string name="maps_network_unavailable" msgid="852879677528638846">"A programhoz adatkapcsolat szükséges, ezért ismét automatikusan próbálkozni fog. Kérjük, ellenőrizze, elegendő-e a térerő. Nincs bekapcsolva a repülő üzemmód? Nincs letiltva a roaming?"</string>
+  <string-array name="maps_full_compass_directions">
+    <item msgid="4575528752583301752">észak</item>
+    <item msgid="4350548105276290005">északkelet</item>
+    <item msgid="2941955296001395559">kelet</item>
+    <item msgid="7564496420537720517">délkelet</item>
+    <item msgid="7734963361324256142">dél</item>
+    <item msgid="2308335477702894344">délnyugat</item>
+    <item msgid="1360397508757498197">nyugat</item>
+    <item msgid="5107967783299132090">északnyugat</item>
+  </string-array>
+</resources>

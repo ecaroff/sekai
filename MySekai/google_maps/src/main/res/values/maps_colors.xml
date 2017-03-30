@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Color definitions should use capital letters and should always be ARGB -->
+
+<resources>
+  <color name="maps_floorpicker_black">#FF000000</color>
+  <color name="maps_floorpicker_text">#FF777777</color>
+  <color name="maps_bubble_highlight">#FFD0D0D0</color>
+  <color name="maps_accuracy_circle_line_color">#73217BCE</color>
+  <color name="maps_accuracy_circle_fill_color">#338CC6EF</color>
+  <color name="maps_qu_google_blue_500">#FF4285F4</color>
+</resources>
