@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Use the tablet UI for XLarge SDK 11 and sw600dp; default is false. -->
+</resources>

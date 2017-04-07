@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="maps_waiting_for_network" msgid="4679308263892194242">"تم فقد اتصال البيانات، وجارٍ إعادة المحاولة…"</string>
+    <string name="maps_panorama_disabled" msgid="504349892431320733">"الصورة غير متوفرة"</string>
+    <string name="maps_service_unavailable" msgid="5623163711058333956">"خدمة التجوّل الافتراضي غير متوفرة."</string>
+    <string name="maps_no_panorama_data" msgid="5724478591902584421">"لم يتم تعيين بيانات بانوراما."</string>
+    <string name="maps_invalid_panorama_data" msgid="5618016850433253177">"بيانات بانوراما غير صالحة."</string>
+  <string-array name="maps_compass_directions">
+    <item msgid="371990129502990442">"الشمال"</item>
+    <item msgid="1723794399812139988">"شمال شرق"</item>
+    <item msgid="8995696828344274905">"شرق"</item>
+    <item msgid="8971984494345895781">"جنوب شرق"</item>
+    <item msgid="7174645718252695865">"جنوب"</item>
+    <item msgid="4863051572593926737">"جنوب غرب"</item>
+    <item msgid="6823513192569584945">"غرب"</item>
+    <item msgid="1255372719355902587">"شمال غرب"</item>
+  </string-array>
+    <string name="maps_street_range_name_format" msgid="8614145121611139475">"%1$s %2$s"</string>
+    <string name="maps_network_unavailable" msgid="852879677528638846">"يتطلب هذا البرنامج اتصالاً بالبيانات، وسيعيد محاولة الاتصال تلقائيًا. الرجاء التحقق من قوة الإشارة. هل تم تشغيل وضع الطائرة؟ هل تم تعطيل بيانات التجوال؟"</string>
+  <string-array name="maps_full_compass_directions">
+    <item msgid="4575528752583301752">الاتجاه إلى الشمال</item>
+    <item msgid="4350548105276290005">الاتجاه إلى الشمال الشرقي</item>
+    <item msgid="2941955296001395559">الاتجاه إلى الشرق</item>
+    <item msgid="7564496420537720517">الاتجاه إلى الجنوب الشرقي</item>
+    <item msgid="7734963361324256142">الاتجاه إلى الجنوب</item>
+    <item msgid="2308335477702894344">الاتجاه إلى الجنوب الغربي</item>
+    <item msgid="1360397508757498197">الاتجاه إلى الغرب</item>
+    <item msgid="5107967783299132090">الاتجاه إلى الشمال الغربي</item>
+  </string-array>
+</resources>

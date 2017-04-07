@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_profile"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg_white"
+    tools:context="emeline.mysekai.ProfileActivity">
+
+    <TextView
+        android:text="TextView"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="37dp"
+        android:layout_marginTop="31dp"
+        android:id="@+id/tv_fullName"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_width="300dp"
+        android:textAppearance="@android:style/TextAppearance.Material.Small" />
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="Name"
+        android:ems="10"
+        android:id="@+id/et_firstName"
+        android:textAppearance="@android:style/TextAppearance.Material.Small.Inverse"
+        android:layout_below="@+id/tv_fullName"
+        android:layout_alignStart="@+id/tv_fullName" />
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="Name"
+        android:ems="10"
+        android:id="@+id/et_lastName"
+        android:textAppearance="@android:style/TextAppearance.Material.Small.Inverse"
+        android:layout_below="@+id/et_firstName"
+        android:layout_alignStart="@+id/et_firstName" />
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:id="@+id/et_Mail"
+        android:textAppearance="@android:style/TextAppearance.Material.Small.Inverse"
+        android:text="mail"
+        android:layout_below="@+id/tv_email"
+        android:layout_alignStart="@+id/tv_email" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_country"
+        android:layout_width="300dp"
+        android:layout_below="@+id/et_Mail"
+        android:layout_alignStart="@+id/et_Mail"
+        android:layout_marginTop="31dp"
+        android:textAppearance="@android:style/TextAppearance.Material.Small" />
+
+    <Button
+        android:text="Submit changes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_OK"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textAppearance="@style/TextAppearance.AppCompat.Widget.Button" />
+
+    <Spinner
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinner"
+        android:layout_below="@+id/tv_country"
+        android:layout_alignStart="@+id/tv_country" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_email"
+        android:layout_width="300dp"
+        android:layout_marginTop="12dp"
+        android:layout_below="@+id/et_lastName"
+        android:layout_alignStart="@+id/et_lastName"
+        android:textAppearance="@android:style/TextAppearance.Material.Small" />
+</RelativeLayout>

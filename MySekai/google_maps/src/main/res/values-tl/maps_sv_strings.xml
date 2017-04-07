@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="maps_waiting_for_network" msgid="4679308263892194242">"Nawala ang koneksyon sa data, muling sinusubukan…"</string>
+    <string name="maps_panorama_disabled" msgid="504349892431320733">"Hindi na magagamit ang larawan"</string>
+    <string name="maps_service_unavailable" msgid="5623163711058333956">"Hindi magagamit ang serbisyong View ng Kalye"</string>
+    <string name="maps_no_panorama_data" msgid="5724478591902584421">"Walang nakatakdang data ng panorama."</string>
+    <string name="maps_invalid_panorama_data" msgid="5618016850433253177">"Hindi wastong panorama."</string>
+  <string-array name="maps_compass_directions">
+    <item msgid="371990129502990442">"H"</item>
+    <item msgid="1723794399812139988">"HS"</item>
+    <item msgid="8995696828344274905">"S"</item>
+    <item msgid="8971984494345895781">"TS"</item>
+    <item msgid="7174645718252695865">"T"</item>
+    <item msgid="4863051572593926737">"TK"</item>
+    <item msgid="6823513192569584945">"K"</item>
+    <item msgid="1255372719355902587">"HK"</item>
+  </string-array>
+    <string name="maps_street_range_name_format" msgid="8614145121611139475">"%1$s %2$s"</string>
+    <string name="maps_network_unavailable" msgid="852879677528638846">"Nangangailangan ang programang ito ng koneksyon ng data, at awtomatikong muling susubukan. Pakitingnan ang lakas ng iyong signal. Naka-on ba ang mode ng airplane? Di ba pinagana ang data sa pag-roam?"</string>
+</resources>

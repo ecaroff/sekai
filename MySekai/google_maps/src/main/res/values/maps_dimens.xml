@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="maps_btn_width">42dp</dimen>
+    <dimen name="maps_btn_margin">10dp</dimen>
+    <!-- Lift the zoom button a little to clear the copyright notice -->
+    <dimen name="maps_btn_zoom_y_margin">15dp</dimen>
+    <dimen name="maps_watermark_margin">5dp</dimen>
+    <!-- The left and right map_toolbar buttons have a 1 pixel dividing -->
+    <!-- line on their inside edge, and a 2dp shadow on their outside edge -->
+    <dimen name="maps_btn_map_toolbar_margin">2dp</dimen>
+    <dimen name="maps_btn_map_toolbar_divider">1px</dimen>
+    <dimen name="maps_btn_map_toolbar_bottom_shadow">1dp</dimen>
+    <dimen name="maps_lite_mode_grid_spacing">15dp</dimen>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2010 Google Inc. All Rights Reserved. -->
+
+<resources>
+    <!--Dimensions for the heads up display. -->
+    <dimen name="maps_dav_hud_copyright_fontsize">12dp</dimen>
+    <!-- Vertical offset of My Location bubble. -->
+    <dimen name="maps_dav_my_location_bubble_y_offset">7dp</dimen>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2010 Google Inc. All Rights Reserved. -->
+<resources>
+    <!-- Size of polygon that has the my location dot mapped onto it. -->
+    <dimen name="maps_vm_mylocation_dot_size">32dp</dimen>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="maps_LEVEL_ALT_TEXT">第 {0} 層</string>
+    <string name="maps_YOUR_LOCATION" msgid="3304805242996771621">您目前的位置</string>
+</resources>
+

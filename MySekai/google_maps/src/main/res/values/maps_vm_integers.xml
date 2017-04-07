@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2010 Google Inc. All Rights Reserved. -->
+<resources>
+    <!-- Diameter of opaque blue dot as a percentage of the width and height
+         of vm_blue_dot_on/off.png. Used to determine the "true" area of the
+         marker within the png square. -->
+    <integer name="maps_vm_mylocation_dot_opaque_percent">40</integer>
+    <!-- Height of opaque blue chevron as a percentage of the height of
+         vm_chevron_on/off.png. Used to determine the "true" area of the
+         marker within the png square. -->
+    <integer name="maps_vm_mylocation_chevron_opaque_percent">54</integer>
+</resources>

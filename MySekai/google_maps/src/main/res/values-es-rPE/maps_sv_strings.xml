@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="maps_waiting_for_network" msgid="4679308263892194242">"Se ha perdido la conexión con los datos. Intentando restaurarla."</string>
+    <string name="maps_panorama_disabled" msgid="504349892431320733">"La imagen ya no está disponible"</string>
+    <string name="maps_service_unavailable" msgid="5623163711058333956">"El servicio Street View no está disponible."</string>
+    <string name="maps_no_panorama_data" msgid="5724478591902584421">"No se establecieron datos de panorama."</string>
+    <string name="maps_invalid_panorama_data" msgid="5618016850433253177">"Panorama no válido."</string>
+  <string-array name="maps_compass_directions">
+    <item msgid="371990129502990442">"N"</item>
+    <item msgid="1723794399812139988">"NE"</item>
+    <item msgid="8995696828344274905">"E"</item>
+    <item msgid="8971984494345895781">"SE"</item>
+    <item msgid="7174645718252695865">"S"</item>
+    <item msgid="4863051572593926737">"SO"</item>
+    <item msgid="6823513192569584945">"O"</item>
+    <item msgid="1255372719355902587">"NO"</item>
+  </string-array>
+    <string name="maps_street_range_name_format" msgid="8614145121611139475">"%1$s %2$s"</string>
+    <string name="maps_network_unavailable" msgid="852879677528638846">"Este programa requiere una conexión de datos y volverá a intentar restaurarla automáticamente. Verifique la intensidad de señal. ¿Está encendido el modo avión? ¿Está desactivado datos móviles?"</string>
+  <string-array name="maps_full_compass_directions">
+    <item msgid="4575528752583301752">norte</item>
+    <item msgid="4350548105276290005">noreste</item>
+    <item msgid="2941955296001395559">este</item>
+    <item msgid="7564496420537720517">sureste</item>
+    <item msgid="7734963361324256142">sur</item>
+    <item msgid="2308335477702894344">suroeste</item>
+    <item msgid="1360397508757498197">oeste</item>
+    <item msgid="5107967783299132090">noroeste</item>
+  </string-array>
+</resources>

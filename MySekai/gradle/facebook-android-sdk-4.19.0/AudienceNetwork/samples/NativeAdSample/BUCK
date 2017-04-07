@@ -1,0 +1,42 @@
+android_resource(
+  name = 'res',
+  res = 'src/main/res',
+  package = 'com.facebook.samples.NativeAdSample',
+)
+
+android_library(
+  name = 'nativeadsample',
+  srcs = glob(['src/main/**/*.java']),
+  provided_deps = [
+    '//first-party/java/androidsdk/facebook:support-annotations-25.0.0',
+    '//third-party/java/google-play-services/play-services-ads:play-services-ads',
+  ],
+  deps = [
+    ':res',
+    '//first-party/java/androidsdk/ads/DebugSettings:debugsettings',
+    '//first-party/java/androidsdk/ads/ads:ads',
+    '//first-party/java/androidsdk/ads/ads:build_config',
+    '//first-party/java/androidsdk/ads/libs:recyclerview-v7-25.0.0',
+    '//first-party/java/androidsdk/facebook:support-compat-25.0.0',
+    '//first-party/java/androidsdk/facebook:support-core-ui-25.0.0',
+    '//first-party/java/androidsdk/facebook:support-core-utils-25.0.0',
+    '//first-party/java/androidsdk/facebook:support-fragment-25.0.0',
+    '//first-party/java/androidsdk/facebook:support-v4-25.0.0',
+  ],
+)
+
+android_binary_for_automation(
+  name = 'nativeadsample',
+  proguard_config = '//first-party/java/androidsdk/ads/ads:proguard_release',
+  deps = [
+    ':nativeadsample',
+  ],
+  # This option is key in preventing pulling in the rest of fbandroid.
+  manifest_skeleton = 'src/main/AndroidManifest.xml',
+  enable_manifest_modules = False,
+  enable_manifest_merge = True,
+  generate_gatekeepers=False,
+  generate_quicker_experiments=False,
+  generate_mobileconfig=False,
+)
+
