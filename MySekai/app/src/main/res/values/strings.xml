@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">MySekai</string>
-    <string name="facebook_app_id">405948203088318</string>
-    <string name="fb_login_protocol_scheme">fb405948203088318</string>
-
-    <string name="welcome_message_part1">Hi</string>
-    <string name="welcome_message_part2">! Welcome on Sekai. The purpose of this application is to enable you to post your opinions on the cultural pieces from your home country and then, Sekai allows you to discover the cultural pieces from foreign countries by reading the opinions of the inhabitants. Enjoy ! ♥</string>
-</resources>

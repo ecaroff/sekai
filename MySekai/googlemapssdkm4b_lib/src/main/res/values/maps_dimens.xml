@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- Lift the zoom button a little to clear the copyright notice -->
-    <!-- The left and right map_toolbar buttons have a 1 pixel dividing -->
-    <!-- line on their inside edge, and a 2dp shadow on their outside edge -->
-</resources>
